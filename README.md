@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Zachary👋
+
+Building... a passion for programming :) 
+
+Learning interests: ML/AI, neurotech, syn cell bio
 
 <!--
 **zacharywong34174/zacharywong34174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
